@@ -1,0 +1,63 @@
+(data:{
+users :[
+  {
+    name: 'Arpit',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'karan',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'yash',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Rishabh',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Shivam',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Prerit',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Rohan',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Sonu',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Kaku',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+  {
+    name: 'Mannu',
+    username: 'arpitj6',
+    email: 'arpitj6@gmail.com',
+    mobile: '9999851985',
+  },
+]}}
